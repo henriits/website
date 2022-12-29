@@ -1,0 +1,167 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Water Brush', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0  auto;
+    color:#66BFBF;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight:normal;
+    color:#66BFBF;
+    font-size:3.325rem;
+    padding-bottom:10px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+
+    color:#66BFBF;
+}
+p {
+    line-height:2;
+}
+
+#programmer {
+    font-family: 'Vujahday Script', cursive;
+    font-size: 30px;
+
+}
+
+
+
+.skill-row {
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height:2;
+}
+
+
+
+.container1 {
+    background-color: powderblue;
+    position:relative;
+    padding-top:330px;
+
+}
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color:#66BFBF;
+    padding:50px 0 20px;
+}
+
+.footer-link {
+   color: #11999E;
+   margin:10px 20px;
+   font-family: 'Montserrat', sans-serif;
+   text-decoration:none;
+}
+
+.footer-link:hover {
+   color:#EAF6F6;
+}
+
+
+
+#copyright {
+    color:#EAF6F6;
+    padding:20px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+
+/*******************************  HERE ARE IMAGES ************************/
+
+#iland {
+    width:25%;
+}
+
+#photography {
+    width:25%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+#computers {
+    width:25%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+#cloud2 {
+    position:absolute;
+    left:100px;
+    bottom:200px;
+    width:25%;
+}
+
+#cloud1 {
+    position:absolute;
+    right:100px;
+    top:20px;
+    width:25%;
+}
+hr {
+    border-style: none;
+    width: 3%;
+    line-style: dotted;
+    border-top: 6px dotted #66BFBF;
+    margin: 100px auto;
+}
+
+.contact-me {
+    width:30%;
+    margin:40px auto 60px;
+
+}
+
+
+
+.btn {
+
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11cdd4);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11cdd4);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11cdd4);
+  background-image: -o-linear-gradient(top, #11cdd4, #11cdd4);
+  background-image: linear-gradient(to bottom, #11cdd4, #11cdd4);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  -webkit-box-shadow: 3px 9px 16px #666666;
+  -moz-box-shadow: 3px 9px 16px #666666;
+  box-shadow: 3px 9px 16px #666666;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
